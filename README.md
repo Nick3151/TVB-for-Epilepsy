@@ -9,6 +9,7 @@
 
 Download the latest tvb-data version: https://zenodo.org/record/3497545#.XfvRpuj0lPY
 
-Then link it to your current python environment::
+Then link it to your current python environment:
+
     cd tvb-data/
-    python setup.py develop
+    python setup.py install
