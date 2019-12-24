@@ -1,7 +1,8 @@
 # TVB-for-Epilepsy
+==================
  Use TVB with a neural mass model to simulate scalp EEG epileptic data and use existing algorithms to try to localize the lobe at which the seizure onset zone is occurring.
 
-## Installation steps::
+## Installation steps:
     conda create --name tvb-python3 python=3.6 
     conda activate tvb-python3
     pip install tvb-library==2.0
