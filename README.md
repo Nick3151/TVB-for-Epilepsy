@@ -6,10 +6,6 @@
     conda create --name tvb-python3 python=3.6 
     conda activate tvb-python3
     pip install tvb-library==2.0
+    pip install tvb-data==2.0
 
 Download the latest tvb-data version: https://zenodo.org/record/3497545#.XfvRpuj0lPY
-
-Then link it to your current python environment:
-
-    cd tvb-data/
-    python setup.py install
