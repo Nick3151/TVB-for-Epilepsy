@@ -1,0 +1,39 @@
+﻿Abbrievation,Region,lobe,L,R
+A1,Primary auditory cortex,T,0,38
+A2,Secondary auditory cortex,T,1,39
+AMYG,Amygdala,T,2,40
+CCA,Gyrus cinguli anterior,,3,41
+CCP,Gyrus cinguli posterior,,4,42
+CCR,Gyrus cinguli retrosplenialis,,5,43
+CCS,Gyrus cinguli subgenualis,,6,44
+FEF,Frontal eye field,F,7,45
+G,Gustatory cortex,F,8,46
+HC,Hippocampal cortex,,9,47
+IA,Anterior insula,,10,48
+IP,Posterior insula,,11,49
+M1,Primary motor area,F,12,50
+PCI,Inferior parietal cortex,P,13,51
+PCIP,Cortex of the intraparietal sulcus,P,14,52
+PCM,Medial parietal cortex,P,15,53
+PCS,Superior parietal cortex,P,16,54
+PFCCL,Centrolateral prefrontal cortex,F,17,55
+PFCDL,Dorsolateral prefrontal cortex,F,18,56
+PFCDM,Dorsomedial prefrontal cortex,F,19,57
+PFCM,Medial prefrontal cortex,F,20,58
+PFCORB,Orbital prefrontal cortex,F,21,59
+PFCPOL,Pole of prefrontal cortex,F,22,60
+PFCVL,Ventrolateral prefrontal cortex,F,23,61
+PHC,Parahippocampal cortex,T,24,62
+PMCDL,Dorsolateral premotor cortex,F,25,63
+PMCM,Medial premotor cortex,F,26,64
+PMCVL,Ventrolateral premotor cortex,F,27,65
+S1,Primary somatosensory cortex,P,28,66
+S2,Secondary somatosensory cortex,,29,67
+TCC,Central temporal cortex,T,30,68
+TCI,Inferior temporal cortex,T,31,69
+TCPOL,Pole of temporal cortex,T,32,70
+TCS,Superior temporal cortex,T,33,71
+TCV,Ventral temporal cortex,T,34,72
+V1,Visual area 1,O,35,73
+V2,Secondary visual cortex,O,36,74
+CC,corpus callosum?,,37,75
