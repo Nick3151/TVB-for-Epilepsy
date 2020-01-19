@@ -7,5 +7,6 @@
     conda activate tvb-python3
     pip install tvb-library==2.0
     pip install tvb-data==2.0
+    conda install mne
 
 Download the latest tvb-data version: https://zenodo.org/record/3497545#.XfvRpuj0lPY
